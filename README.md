@@ -20,10 +20,12 @@ Veri seti olarak 302010 satırlık bir ürün tablosu kullanılmıştır.
 - Model: `google/flan-t5-large`
 - Yöntem: `pipeline("text2text-generation")` ile başlıktan açıklama üretildi.
 
+![image](https://github.com/user-attachments/assets/3903cd4f-e06f-4015-bf75-bc7566db84f8)
+
+
 ### 🔹 Kategori Tahmini (Makine Öğrenmesi)
 - Yöntem: TF-IDF + Random Forest
 - Metric: Accuracy, F1-score
 - Accuracy: **0.9980**
 
-![image](https://github.com/user-attachments/assets/2e953367-00eb-45f1-876f-9358f008372d)
 ![image](https://github.com/user-attachments/assets/2e953367-00eb-45f1-876f-9358f008372d)
